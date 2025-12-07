@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "拝啓、少年よ (Album Ver.)",
+  "base_artist": "Hump Back",
+  "createdAt": "2025-12-07T11:38:39.869310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拝啓、少年よ",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/01_拝啓、少年よ_Hump_Back.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "拝啓、少年よ",
+      "artist": "Hump Back",
+      "has_synced": true,
+      "path": "select/02_拝啓、少年よ_Hump_Back.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "拝啓、少年よ",
+      "artist": "Video • Hump Back",
+      "has_synced": true,
+      "path": "select/03_拝啓、少年よ_Video_•_Hump_Back.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "拝啓、少年よ (Album Ver.) - Haikei Shounenyo",
+      "artist": "Hump Back",
+      "has_synced": true,
+      "path": "select/04_拝啓、少年よ_(Album_Ver.)_-_Haikei_Shounenyo_Hump_Back.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "拝啓、少年よ（2020.11.23 Live at 大阪城ホール）",
+      "artist": "Hump Back",
+      "has_synced": true,
+      "path": "select/05_拝啓、少年よ(2020.11.23_Live_at_大阪城ホール)_Hump_Back.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "拝啓、少年よ - 2020.11.23 Live at 大阪城ホール",
+      "artist": "Hump Back",
+      "has_synced": true,
+      "path": "select/06_拝啓、少年よ_-_2020.11.23_Live_at_大阪城ホール_Hump_Back.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "拝啓、少年よ (2020.11.23 Live at 大阪城ホール) - Haikei Shounenyo (2020.11.23 Live at Osaka-Jo Hall)",
+      "artist": "Hump Back",
+      "has_synced": true,
+      "path": "select/07_拝啓、少年よ_(2020.11.23_Live_at_大阪城ホール)_-_Haikei_Shounenyo_(2020.11.23_Live_at_Osaka-_Hump_Back.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓、少年よ",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓、少年よ_Hump_Back.txt"
+    }
+  ]
+}
